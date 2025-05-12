@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# AWS CDK
+cdk.out/
+cdk.context.json
+
+# Arquivos de ambiente e segredos
+.env
+*.env
+*.pem
+*.key
+*.crt
+*.cert
+.env
